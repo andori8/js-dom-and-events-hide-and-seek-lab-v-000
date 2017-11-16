@@ -24,5 +24,3 @@ function increaseRankBy(n) {
     list[i].innerHTML = (parseInt(list[i].innerHTML, 10) + n).toString();
   }
 }
-
-}
